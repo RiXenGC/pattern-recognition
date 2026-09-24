@@ -28,6 +28,11 @@ share/python-wheels/
 *.egg
 
 # Environments
+data/
+lr2.pdf
+lr3.pdf
+lr4.pdf
+lr5.pdf
 .env
 .envrc
 .venv
