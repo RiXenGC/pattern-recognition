@@ -1,5 +1,5 @@
 def main():
-    print("Hello from pattern-recognition!")
+    print("Hello aboba!")
 
 
 if __name__ == "__main__":
